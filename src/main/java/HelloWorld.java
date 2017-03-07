@@ -6,6 +6,6 @@ import java.util.regex.Matcher;
 
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("This is a test for new new branch new ");
+        System.out.println("This is a test for a clean addition.");
     }
 }
